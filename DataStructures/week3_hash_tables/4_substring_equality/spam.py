@@ -1,0 +1,6 @@
+print(hash("string"))
+print(hash("string"))
+print(hash("string"))
+print(hash("string"))
+print(hash("string"))
+print(hash())
